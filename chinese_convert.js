@@ -1,3 +1,4 @@
+//測試 for travis ci
 var tw2cn = require('./tw2cn.js')
 var cn2tw = require('./cn2tw.js')
 
